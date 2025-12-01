@@ -34,7 +34,7 @@ Always learning, improving, and exploring new technologies to become a stronger 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/django/django-ar21.svg" alt="django"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel"></code>
