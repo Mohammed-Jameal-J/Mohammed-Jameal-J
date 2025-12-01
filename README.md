@@ -42,14 +42,19 @@ Always learning, improving, and exploring new technologies to become a stronger 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind CSS"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/wix/wix-ar21.svg" alt="wix"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/framer/framer-ar21.svg" alt="framer"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma"></code>
 
 ---
 
 ### My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Jameal-J&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Jameal-J&hide=css,java,html&theme=tokyonight&cache_seconds=1800" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Jameal-J&theme=tokyonight" />
 
 </p>
 
