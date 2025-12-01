@@ -48,8 +48,9 @@ Always learning, improving, and exploring new technologies to become a stronger 
 ### My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Jameal-J&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Jameal-J&hide=css,java,html&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Jameal-J&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Jameal-J&hide=css,java,html&theme=tokyonight&cache_seconds=1800" />
+
 </p>
 
 <p align="left">
