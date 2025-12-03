@@ -68,7 +68,4 @@ Always learning, improving, and exploring new technologies to become a stronger 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Jameal-J)
 
----
-
-If you'd like any text changes (bio, quote, or to hide certain stats), tell me and I’ll update the README.
 
