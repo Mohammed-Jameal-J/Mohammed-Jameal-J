@@ -90,13 +90,21 @@ Building AI-powered applications, scalable web platforms, and production infrast
 ## Contribution Arcade
 
 <p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Mohammed-Jameal-J/Mohammed-Jameal-J/output/galaga-contribution-graph.svg"
-  width="100%"
-  alt="Galaga Contribution Game"
-/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Mohammed-Jameal-J/Mohammed-Jameal-J/output/breakout-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Mohammed-Jameal-J/Mohammed-Jameal-J/output/breakout-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Mohammed-Jameal-J/Mohammed-Jameal-J/output/breakout-contribution-graph.svg"
+      width="100%"
+      alt="GitHub Contribution Breakout Game"
+    />
+  </picture>
 </p>
 
 ---
