@@ -1,71 +1,118 @@
-# Mohammed Jameal
+# Mohammed Jameal J
 
-[![Github](https://img.shields.io/github/followers/Mohammed-Jameal-J?label=Follow&style=social)](https://github.com/Mohammed-Jameal-J)
-[![Linkedin](https://img.shields.io/badge/Mohammed%20Jameal-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-jameal-j/)
+### AI Engineer · Full Stack Developer · DevOps Engineer
 
-<a href="https://app.daily.dev/mohammedjameal"><img src="https://api.daily.dev/devcards/v2/HwZTS2tG7U0EgAm42lj0u.png?r=p3o" width="356" alt="Mohammed Jameal's Dev Card"/></a>
+Building AI-powered applications, scalable web platforms, and production infrastructure.
 
----
-
-## About Me
-
-I'm a React Frontend Developer currently diving deeper into **Next.js** to build high-performance, scalable web applications.  
-I have built **10+ fully functional websites** for clients and personal projects, focusing on clean UI, responsive layouts, and smooth user experience.
-
-I’m passionate about modern JavaScript, UI animations, performance optimization, and turning ideas into real products.  
-Always learning, improving, and exploring new technologies to become a stronger full-stack developer.
-
-### My Interests:
-- 🚀 Frontend Development (React, Next.js, Tailwind)
-- 🎨 UI/UX & clean design structure  
-- ⚡ Performance & SEO optimization  
-- 🧩 Problem-solving and debugging  
-- 🌐 Building complete real-world websites & dashboards  
-
-
-### "Code until you find your solution"! 👋
-![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
+<p align="left">
+  <a href="https://mohammedjameal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-jameal-j/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammedjameal031@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Stack I work with
+## Technology
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="ReactJS"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind CSS"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" alt="shopify"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wix/wix-ar21.svg" alt="wix"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/framer/framer-ar21.svg" alt="framer"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma"></code>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,django,postgres,docker,linux,jenkins,nginx,git,github&perline=7" />
+</p>
+
+### AI Engineering
+
+`OpenAI` · `Claude` · `Grok` · `Llama`
+
+`LangChain` · `LangGraph` · `LangSmith` · `LangFlow`
+
+`RAG` · `Agentic RAG` · `Embeddings` · `Semantic Search`
+
+`FAISS` · `ChromaDB` · `Pinecone` · `Qdrant`
+
+`MCP` · `FastMCP` · `AI Agents` · `n8n` · `Flowise`
+
+### Full Stack Development
+
+`Python` · `FastAPI` · `Django`
+
+`React` · `Next.js` · `TypeScript` · `JavaScript`
+
+`REST APIs` · `PostgreSQL` · `MySQL` · `SQLite`
+
+`SQLAlchemy` · `Prisma` · `JWT` · `Authentication`
+
+### DevOps & Infrastructure
+
+`Linux` · `Ubuntu` · `Docker` · `Docker Compose`
+
+`Jenkins` · `CI/CD` · `Nginx` · `VPS`
+
+`Cloudflare` · `DNS` · `HTTPS / SSL`
+
+`Prometheus` · `Grafana` · `Node Exporter` · `cAdvisor`
+
+### UI & Development
+
+`Git` · `GitHub` · `Postman` · `Jira`
+
+`Figma` · `GSAP` · `Framer Motion` · `Lenis`
+
+`WordPress` · `WooCommerce` · `Shopify` · `Wix`
+
+`Framer` · `Webflow`
 
 ---
 
-### My Github Stats
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Jameal-J&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Mohammed-Jameal-J&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## Contribution Arcade
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Jameal-J&theme=tokyonight" />
+<img
+  src="https://raw.githubusercontent.com/Mohammed-Jameal-J/Mohammed-Jameal-J/output/galaga-contribution-graph.svg"
+  width="100%"
+  alt="Galaga Contribution Game"
+/>
 
 </p>
+
+---
+
+## Connect
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Jameal-J" alt="Profile views" />
+  <a href="https://mohammedjameal.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-jameal-j/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mohammedjameal031@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Mohammed-Jameal-J">GitHub</a>
 </p>
 
-### GITHUB TROPHIES
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammed-Jameal-J)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Jameal-J)
-
-
+<p align="center">
+  <sub>Building with AI · Shipping with code · Learning continuously</sub>
+</p>
